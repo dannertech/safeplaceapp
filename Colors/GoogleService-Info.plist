@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SFCompactDisplay-Light.otf</string>
+	</array>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>21757085752-q5si4vj74b1ef9ltlenj4r59ql9qrr10.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.21757085752-q5si4vj74b1ef9ltlenj4r59ql9qrr10</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaYpguiPwrzc0Nj4u0kaFooLGR0c4PfOk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>21757085752</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DannerOpp.Colors</string>
+	<key>PROJECT_ID</key>
+	<string>colors-07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>colors-07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:21757085752:ios:f39b05696bb8e7d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://colors-07.firebaseio.com</string>
+</dict>
+</plist>
